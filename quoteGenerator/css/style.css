@@ -1,0 +1,41 @@
+body {
+  background: url("https://cdn2.vox-cdn.com/thumbor/7dLrK8ScP7JB9hzPkYcOeW8erPc=/0x2:554x371/1280x854/cdn0.vox-cdn.com/uploads/chorus_image/image/48401727/Screen_Shot_2015-12-21_at_8.21.47_AM.0.0.png") no-repeat center center fixed;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+#quote{
+  position:relative;
+  
+}
+#pane{
+  opacity:0.9;
+  
+}
+#here{
+  
+  font-size:60px;
+  color:#FFD700;
+  font-family: 'Lobster', cursive;
+  
+}
+#hd{
+   font-size:60px;
+   
+  font-weight:bold;
+  -webkit-text-stroke: 2px #FFD700;
+  color: black;
+  
+}
+a:hover{
+  text-decoration:none;
+  color:blue;
+   
+  
+}
+#vid {
+  opacity:0;
+ 
+}

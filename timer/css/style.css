@@ -1,0 +1,17 @@
+body {
+  
+  background-color:white;
+  
+}
+.jumbotron {
+  background-color:black;
+  margin:5%;
+  padding:10%;
+  
+  color:RED;
+}
+#menu {
+  margin:1%;
+  
+}
+

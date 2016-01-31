@@ -1,0 +1,82 @@
+.navbar {
+  padding-left: 250px;
+  padding-right: 200px;
+  background-color: #aba4a3;
+  border-color: #;
+}
+
+.navbar-brand {
+  font-family: Times New Roman;
+  font-weight: bold;
+}
+
+a {
+  color: black;
+}
+
+#main {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  background-size: cover;
+  background-image: url("https://pixabay.com/static/uploads/photo/2015/11/07/11/59/road-1031702_960_720.jpg");
+  padding: 20%;
+}
+
+#about {
+  color: white;
+  font-size: 20px;
+  padding-top: 10%;
+  padding-bottom: 20%;
+  background-size: cover;
+  background-image: url("https://pixabay.com/static/uploads/photo/2015/12/01/15/43/black-1072366_960_720.jpg");
+}
+
+#portfolio {
+  padding-bottom: 10%;
+  background-size: cover;
+  background-image: url("https://pixabay.com/static/uploads/photo/2015/01/14/18/41/home-office-599475_960_720.jpg");
+  color: white;
+}
+
+#contact {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 20%;
+  background-size: cover;
+  background-image: url("https://pixabay.com/static/uploads/photo/2014/07/30/22/53/notebook-405755_960_720.jpg");
+  color: white;
+}
+
+.part {
+  position: relative;
+}
+
+.btn {
+  font-weight: bold;
+}
+
+#dp {
+  padding-left: 20%;
+  padding-bottom: 10%;
+}
+
+#box {
+  font-weight: bold;
+  font-size: 50px;
+  padding: 10%;
+  background-size: cover;
+  background-image: url("https://pixabay.com/static/uploads/photo/2014/11/30/17/15/theater-551797_960_720.jpg");
+  color: #FFD700;
+  border: 2px solid white;
+}
+
+#foot {
+  padding: 50px;
+  background-color: #aba4a3;
+  border-color: #aba4a3;
+  background-size: cover;
+  color: white;
+}
